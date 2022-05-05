@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    height: 100vh;
+    color: #020202;
+    background-color: #eaeaea;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+}
+.nav {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    width: 100%;
+}
+.main {
+    width: 40vw;
+    margin: 15vh auto;
+    padding-bottom: 10vh;
+}
+.wphead {
+    font-size: 0.65rem;
+    padding: 1.5rem;
+    display: flex;
+}
+.titl {
+    width: 75%;
+}
+.date {
+    color: #b9b9b9;
+    width: 25%;
+    text-align: right;
+}
+.pgr {
+    margin: auto;
+    padding: 1.5rem;
+}
+.nti {
+    width: 40vw;
+    margin: auto;
+    text-align: left;
+    
+}
+.card {
+    background-color: white;
+    margin-bottom: 10vh;
+}
+.imgclear {
+background-color:#d4d4d4;
+}
